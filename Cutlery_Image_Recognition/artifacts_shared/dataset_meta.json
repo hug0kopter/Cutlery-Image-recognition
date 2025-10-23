@@ -1,0 +1,40 @@
+{
+  "data_path": "C:\\HAN\\RoboticsMinor\\Machine_Learning\\mmr-mlp-main\\scripts\\data_and_features\\New_output",
+  "present_classes": [
+    "fork",
+    "spoon",
+    "knife",
+    "ignore"
+  ],
+  "counts": [
+    [
+      "spoon",
+      919
+    ],
+    [
+      "knife",
+      908
+    ],
+    [
+      "fork",
+      898
+    ],
+    [
+      "ignore",
+      515
+    ]
+  ],
+  "random_state": 42,
+  "test_size": 0.25,
+  "scaler_mean_": [
+    6.357602812993673,
+    12.602439549970038,
+    0.46710123957859145
+  ],
+  "scaler_scale_": [
+    2.2120674226080137,
+    5.955193269375901,
+    0.08446980496907032
+  ],
+  "note": "X_* are scaled. Non-finite rows removed in train and test."
+}

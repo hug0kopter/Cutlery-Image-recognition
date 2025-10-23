@@ -1,0 +1,12 @@
+# Core
+numpy
+opencv-python
+imutils
+joblib
+
+# ML
+scikit-learn
+
+# Viz (used by explore_and_save_fixed.py)
+matplotlib
+seaborn
