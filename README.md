@@ -84,7 +84,7 @@ Cutlery_Image_Recognition/
 Due to GitHub size limits, the **original image dataset** is available as a ZIP file on Google Drive.
 
 **Download here:**  
-[Google Drive – Cutlery Raw Dataset (ZIP)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Google Drive – Cutlery Raw Dataset (ZIP)](https://drive.google.com/file/d/10M1h3FBXEw4DpyxRSG4XHtGXW6DzzhJe/view?usp=drive_link)
 
 After downloading, extract the ZIP file into:
 ```
